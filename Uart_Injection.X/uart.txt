@@ -1,0 +1,8 @@
+// Delays don't work properly
+// 13 and 10 to CR LF
+//wait 0 sec
+//61 62 63 20 64 65 66 13 10
+"1234"
+//wait 100 ms
+"5678"
+//wait 100 ms
