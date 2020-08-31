@@ -22,7 +22,7 @@
 #pragma config WINDIS = ON    // Watchdog Timer Window->Standard Watchdog Timer enabled,(Windowed-mode is disabled)
 #pragma config FWDTEN = OFF    // Watchdog Timer Enable->Watchdog Timer is enabled
 #pragma config ICS = PGx2    // Comm Channel Select->Emulator/debugger uses EMUC2/EMUD2
-#pragma config COE = OFF    // Set Clip On Emulation Mode->Reset Into Operational Mode
+//#pragma config COE = OFF    // Set Clip On Emulation Mode->Reset Into Operational Mode
 #pragma config BKBUG = OFF    // Background Debug->Device resets into Operational mode
 #pragma config GWRP = OFF    // General Code Segment Write Protect->Writes to program memory are allowed
 #pragma config GCP = OFF    // General Code Segment Code Protect->Code protection is disabled
