@@ -44,6 +44,7 @@ void initIO(void){
     _TRISA5 =0; // LED D8
     _TRISD1=0;  //pin 76 generator output 
    // _TRISG8 =1; // input CN10 on RG8
+    _PCFG0 = 1;  // digital mode for AN0
 }
 
 
